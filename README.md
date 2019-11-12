@@ -7,4 +7,4 @@
 5. Enter playlist name of songs you want to explore
 6. The code will output a list of songs you might like from the playlist you want to explore after several several dozen seconds.
 
-Note: The playlist have to be under the username that they enter.
+Note: The playlist have to be under the username that you enter.
